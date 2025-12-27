@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Presentation Architect",
+  "description": "A high-performance AI-powered presentation generator that creates professional slide decks from simple prompts using Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
